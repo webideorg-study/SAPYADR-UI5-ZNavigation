@@ -1,0 +1,9 @@
+<mvc:View xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="ZNavigation.controller.V_Root" displayBlock="true">
+	<App id="V_Main">
+		<pages>
+			<Page title="{i18n>root_title}">
+				<content/>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>
